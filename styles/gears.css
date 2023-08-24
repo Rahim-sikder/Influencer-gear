@@ -33,3 +33,45 @@ nav span a{
 span a i{
  font-size: 20px;
 }
+/* Journey as a influencer start */
+.influencer{
+   display: flex;
+   justify-content: center;
+   margin-top: 181px;
+   gap: 120px;
+}
+.section-title{
+   color: #3A3A3A;
+font-family: Poppins;
+font-size: 52px;
+font-weight: 700;
+width: 582px;
+height: 133px;
+flex-shrink: 0;
+
+}
+.section-detail{
+   color: #3A3A3A;
+   font-family: Poppins;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: normal;
+   width: 505px;
+   height: 60.9px;
+
+}
+.main-camer img{
+   width: 440px;
+ height: 414px;
+
+}
+.btn{
+   border-radius: 41px;
+background: #E02C6D;
+display: inline-flex;
+padding: 10px 24px;
+align-items: flex-start;
+gap: 8px;
+
+}
