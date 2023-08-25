@@ -231,3 +231,18 @@ height: 270px;
  .btn2 a{
    color: #ffffff;
  }
+  /* footer section */
+  footer{
+   background-color: black;
+   color: aliceblue;
+   height: 200px;
+   text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 70px;
+  }
+  .social-media i{
+        margin-left: 20px;
+        color: #5E6366;
+  }
